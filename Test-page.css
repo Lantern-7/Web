@@ -143,4 +143,5 @@ label:has(input:checked) {
     .content {font-size: 14px;}
     .submit-btn { width: 70%; margin: 20px 0; }
     .questions { margin: 0 5%; }
+    .footer { font-size: 10px }
 }
