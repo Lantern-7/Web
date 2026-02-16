@@ -140,7 +140,8 @@ label:has(input:checked) {
 }
 
 @media (max-width: 480px) {
-    body { font-size: 16px; }
+    body { font-size: 14px; }
     .submit-btn { width: 100%; margin: 20px 0; }
     .questions { margin: 0 5%; }
+    .submit-btn { width: 70%; }
 }
